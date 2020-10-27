@@ -17,10 +17,10 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 - ⚡ Fun fact: I've working with computation all these years, but I prefer Biology than Computation  :P 
 
 **My Works:**
-1. Bioinformatics studies: [BioInformaticXs](https://github.com/BrunoRossiCarmo/BioInformaticXs)
-2. Biomechanic studies: [BioMechanic](https://github.com/BrunoRossiCarmo/Bio-mechanic-Modeling-Tissues-Strain-Representation)
-3. Data Structure studies: [Data Structure](https://github.com/BrunoRossiCarmo/Deque_Data_Structure-AED)
-4. R Data Analysis studies: [R](https://github.com/BrunoRossiCarmo/R-Language-Study-Case-)
+1. Bioinformatics studies:🧬 [BioInformaticXs](https://github.com/BrunoRossiCarmo/BioInformaticXs)
+2. Biomechanic studies:⚙️ [BioMechanic](https://github.com/BrunoRossiCarmo/Bio-mechanic-Modeling-Tissues-Strain-Representation)
+3. Data Structure studies:📱[Data Structure](https://github.com/BrunoRossiCarmo/Deque_Data_Structure-AED)
+4. R Data Analysis studies:💻 [R](https://github.com/BrunoRossiCarmo/R-Language-Study-Case-)
 
 **How to find me:**
 1. 🤵 LinkedIn: [Bruno Rossi Carmo](https://www.linkedin.com/in/bruno-rossi-carmo/) 
