@@ -25,7 +25,7 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 **How to find me:**
 - 🤵 LinkedIn: [Bruno Rossi Carmo](https://www.linkedin.com/in/bruno-rossi-carmo/) 
 - 🧬CV Lattes: [Bruno Rossi Carmo](buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2473505Y5)
-- 🧪FAPESP: [Bruno Rossi Carmo](https://bv.fapesp.br/pt/pesquisador/705436/bruno-rossi-carmo/)
-- 🎵Spotify: [Bruno Rossi Carmo (Yey)](https://open.spotify.com/user/skaykan)
+- 🧪FAPESP:    [Bruno Rossi Carmo](https://bv.fapesp.br/pt/pesquisador/705436/bruno-rossi-carmo/)
+- 🎵Spotify:   [Bruno Rossi Carmo (Yey)](https://open.spotify.com/user/skaykan)
 
 
