@@ -1,7 +1,7 @@
 ### Hello There! 🙌
 
 I'm a **Biomedical Informatics** student of University of São Paulo - FMRP. Basically, you would think that name "Biomedical Informatics" doesn't make any sense at all, but trust me, biomedical information and data science aren't as far apart as you probably thought...
-If you want to know more about my course, here's his page: [Biomedica Informatics - USP]https://ibm.fmrp.usp.br/
+If you want to know more about my course, here's his page: [Biomedica Informatics - USP](https://ibm.fmrp.usp.br/)
 
 Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the key objective here is study all the information about the omics areas, like:
 - *Genomics* 🧬
