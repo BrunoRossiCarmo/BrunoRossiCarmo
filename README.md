@@ -4,11 +4,11 @@ I'm a **Biomedical Informatics** student of University of São Paulo - FMRP. Bas
 If you want to know more about my course, here's his page: [Biomedica Informatics - USP]https://ibm.fmrp.usp.br/
 
 Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the key objective here is study all the information about the omics areas, like:
-1. *Genomics 🧬
-2. *Transcriptomics 🧪
-3. *Proteomics 🔬
-4. *Epigenomics ⚗️
-5. *And much more stuff...
+1. *Genomics* 🧬
+2. *Transcriptomics* 🧪
+3. *Proteomics* 🔬
+4. *Epigenomics* ⚗️
+5. *And much more stuff*...
 
 **About Me:**
 - 🔭 I’m currently working on a series of training analysis focus on Transcriptomics;
