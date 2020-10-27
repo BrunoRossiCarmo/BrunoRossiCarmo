@@ -24,8 +24,8 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 
 **How to find me:**
 - 🤵 LinkedIn: [Bruno Rossi Carmo](https://www.linkedin.com/in/bruno-rossi-carmo/) 
-- 🧬CV Lattes: [Bruno Rossi Carmp](buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2473505Y5)
-- 🧪FAPESP: [Bruno Rossi Carmp](https://bv.fapesp.br/pt/pesquisador/705436/bruno-rossi-carmo/)
+- 🧬CV Lattes: [Bruno Rossi Carmo](buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2473505Y5)
+- 🧪FAPESP: [Bruno Rossi Carmo](https://bv.fapesp.br/pt/pesquisador/705436/bruno-rossi-carmo/)
 
 >So I am just sitting and waiting, listening, 
 >and if something exciting comes, I just jump in.
