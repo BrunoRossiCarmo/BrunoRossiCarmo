@@ -1,8 +1,5 @@
 ### Hello There! 🙌
 
-<!--
-**BrunoRossiCarmo/BrunoRossiCarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a **Biomedical Informatics** student of University of São Paulo - FMRP. Basically, you would think that name "Biomedical Informatics" doesn't make any sense at all, but trust me, biomedical information and data science aren't as far apart as you probably thought...
 If you want to know more about my course, here's his page: [Biomedica Informatics - USP]https://ibm.fmrp.usp.br/
 
