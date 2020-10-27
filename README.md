@@ -28,9 +28,4 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 - 🧪FAPESP: [Bruno Rossi Carmo](https://bv.fapesp.br/pt/pesquisador/705436/bruno-rossi-carmo/)
 
 
-**Some quotes:**
-
-George Gamow:
->So I am just sitting and waiting, listening 
->and if something exciting comes, I just jump in.
 
