@@ -18,9 +18,7 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 
 **My Works:**
 - Bioinformatics studies:🧬 [BioInformaticXs](https://github.com/BrunoRossiCarmo/BioInformaticXs)
-- Biomechanic studies:⚙️ [BioMechanic](https://github.com/BrunoRossiCarmo/Bio-mechanic-Modeling-Tissues-Strain-Representation)
-- Data Structure studies:📱[Data Structure](https://github.com/BrunoRossiCarmo/Deque_Data_Structure-AED)
-- R Data Analysis studies:💻 [R](https://github.com/BrunoRossiCarmo/R-Language-Study-Case-)
+- R studies:💻 [R](https://github.com/BrunoRossiCarmo/R-Language-Study-Case-)
 
 **How to find me:**
 - 🤵 LinkedIn: [Bruno Rossi Carmo](https://www.linkedin.com/in/bruno-rossi-carmo/) 
