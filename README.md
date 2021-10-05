@@ -19,6 +19,16 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 **My Works:**
 - Bioinformatics studies:🧬 [BioInformaticXs](https://github.com/BrunoRossiCarmo/BioInformaticXs)
 - R studies:💻 [R](https://github.com/BrunoRossiCarmo/R-Language-Study-Case-)
+<!–– 
+    username => BrunoRossiCarmo
+    theme => Tema do Quadro 
+-->
+
+<div align=center>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorHQ&layout=compact&theme=radical"/>
+  </a>
+</div>
 
 **How to find me:**
 - 🤵 LinkedIn: [Bruno Rossi Carmo](https://www.linkedin.com/in/bruno-rossi-carmo/) 
