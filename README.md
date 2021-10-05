@@ -27,12 +27,6 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 - 🎵Spotify:   [Bruno Rossi Carmo (Yey)](https://open.spotify.com/user/skaykan)
 
 **Statistics:**
-
-<!–– 
-    username => BrunoRossiCarmo
-    theme => Tema do Quadro 
--->
-
 <div align=center>
   <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorHQ&layout=compact&theme=radical"/>
