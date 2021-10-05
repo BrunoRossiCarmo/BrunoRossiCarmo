@@ -16,17 +16,11 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 - 🤔 I’m looking for help with anything possible ;D
 - ⚡ Fun fact: I've working with computation all these years, but I prefer Biology than Computation  :P 
 
-**My Works:**
-- Bioinformatics studies:🧬 [BioInformaticXs](https://github.com/BrunoRossiCarmo/BioInformaticXs)
-- R studies:💻 [R](https://github.com/BrunoRossiCarmo/R-Language-Study-Case-)
-
 **How to find me:**
 - 🤵 LinkedIn: [Bruno Rossi Carmo](https://www.linkedin.com/in/bruno-rossi-carmo/) 
 - 🧬CV Lattes: [Bruno Rossi Carmo](http://lattes.cnpq.br/7125433562405599)
 - 🧪FAPESP:    [Bruno Rossi Carmo](https://bv.fapesp.br/pt/pesquisador/705436/bruno-rossi-carmo/)
 - 🎵Spotify:   [Bruno Rossi Carmo (Yey)](https://open.spotify.com/user/skaykan)
-
-
 
 <div align=center>
   <a href="https://github.com/anuraghazra/convoychat">
