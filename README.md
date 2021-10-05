@@ -28,18 +28,14 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
     <img src="https://github-readme-stats.vercel.app/api?username=BrunoRossiCarmo&show_icons=true&theme=radical"/>
   </a>
 </div>
-```
-:)
-```
+
 
 <div align=center>
   <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRossiCarmo&layout=compact&theme=radical"/>
   </a>
 </div>
-```
-:')
-```
+
 
 
 
