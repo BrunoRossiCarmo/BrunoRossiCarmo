@@ -27,6 +27,7 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 - 🎵Spotify:   [Bruno Rossi Carmo (Yey)](https://open.spotify.com/user/skaykan)
 
 **Statistics:**
+
 <!–– 
     username => BrunoRossiCarmo
     theme => Tema do Quadro 
