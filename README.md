@@ -26,7 +26,7 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 - 🧪FAPESP:    [Bruno Rossi Carmo](https://bv.fapesp.br/pt/pesquisador/705436/bruno-rossi-carmo/)
 - 🎵Spotify:   [Bruno Rossi Carmo (Yey)](https://open.spotify.com/user/skaykan)
 
-                                                                                **Statistics:**
+
 
 <div align=center>
   <a href="https://github.com/anuraghazra/convoychat">
