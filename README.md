@@ -23,8 +23,6 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 - 🎵Spotify:   [Bruno Rossi Carmo (Yey)](https://open.spotify.com/user/skaykan)
 
 
-
-
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=BrunoRossiCarmo&show_icons=true&theme=radical"/>
@@ -32,12 +30,18 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 </div>
 
 
-
-
-
-
 <div align=center>
   <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRossiCarmo&layout=compact&theme=radical"/>
   </a>
 </div>
+
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=SASS&color=f0a5ca&style=for-the-badge&logo=sass"/>
+  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logoColor=white&style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d0c0c&style=for-the-badge&logo=JavaScript"/>
+  <img src="https://img.shields.io/static/v1?label=&message=PHP&color=9c9fc9&style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logoColor=white&style=for-the-badge&logo=mysql"/>
+</p>
