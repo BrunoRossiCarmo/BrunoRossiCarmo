@@ -19,6 +19,14 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 **My Works:**
 - Bioinformatics studies:🧬 [BioInformaticXs](https://github.com/BrunoRossiCarmo/BioInformaticXs)
 - R studies:💻 [R](https://github.com/BrunoRossiCarmo/R-Language-Study-Case-)
+
+**How to find me:**
+- 🤵 LinkedIn: [Bruno Rossi Carmo](https://www.linkedin.com/in/bruno-rossi-carmo/) 
+- 🧬CV Lattes: [Bruno Rossi Carmo](http://lattes.cnpq.br/7125433562405599)
+- 🧪FAPESP:    [Bruno Rossi Carmo](https://bv.fapesp.br/pt/pesquisador/705436/bruno-rossi-carmo/)
+- 🎵Spotify:   [Bruno Rossi Carmo (Yey)](https://open.spotify.com/user/skaykan)
+
+**Statistics:**
 <!–– 
     username => BrunoRossiCarmo
     theme => Tema do Quadro 
@@ -29,11 +37,3 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorHQ&layout=compact&theme=radical"/>
   </a>
 </div>
-
-**How to find me:**
-- 🤵 LinkedIn: [Bruno Rossi Carmo](https://www.linkedin.com/in/bruno-rossi-carmo/) 
-- 🧬CV Lattes: [Bruno Rossi Carmo](http://lattes.cnpq.br/7125433562405599)
-- 🧪FAPESP:    [Bruno Rossi Carmo](https://bv.fapesp.br/pt/pesquisador/705436/bruno-rossi-carmo/)
-- 🎵Spotify:   [Bruno Rossi Carmo (Yey)](https://open.spotify.com/user/skaykan)
-
-
