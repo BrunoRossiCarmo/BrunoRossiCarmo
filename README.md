@@ -31,7 +31,7 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
   </a>
 </div>
 
-
+# Languages
 <div align=center>
   <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRossiCarmo&layout=compact&theme=radical"/>
