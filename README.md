@@ -28,7 +28,7 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 
 **Statistics:**
 <div align=center>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/BrunoRossiCarmo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorHQ&layout=compact&theme=radical"/>
   </a>
 </div>
