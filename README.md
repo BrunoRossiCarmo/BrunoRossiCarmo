@@ -26,9 +26,10 @@ Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the
 - 🧪FAPESP:    [Bruno Rossi Carmo](https://bv.fapesp.br/pt/pesquisador/705436/bruno-rossi-carmo/)
 - 🎵Spotify:   [Bruno Rossi Carmo (Yey)](https://open.spotify.com/user/skaykan)
 
-**Statistics:**
+                                                                                **Statistics:**
+
 <div align=center>
-  <a href="https://github.com/BrunoRossiCarmo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorHQ&layout=compact&theme=radical"/>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRossiCarmo&layout=compact&theme=radical"/>
   </a>
 </div>
