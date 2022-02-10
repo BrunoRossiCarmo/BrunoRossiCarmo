@@ -1,9 +1,11 @@
 ### 🙌 Hello There! 🙌
 
-I'm a **Biomedical Informatics** student of University of São Paulo - FMRP. Basically, you would think that name "Biomedical Informatics" doesn't make any sense at all, but trust me, biomedical information and data science aren't as far apart as you probably thought...
-If you want to know more about my course, here's his page: [Biomedica Informatics - USP](https://ibm.fmrp.usp.br/) | [Institutional Video](https://www.youtube.com/watch?v=zpGVfwBcSn0)
+I'm a **Physics** student of University of São Paulo - IFSC. 
+Also, I was already a student of the Biomedical Informatics course, but I interrupted the graduation journey in this course to replace it with physics. Basically, you would think that name "Biomedical Informatics" doesn't make any sense at all, but trust me, biomedical information and data science aren't as far apart as you probably thought...
+If you want to know more about this course, here's his page: [Biomedica Informatics - USP](https://ibm.fmrp.usp.br/) | [Institutional Video](https://www.youtube.com/watch?v=zpGVfwBcSn0)
 
-Exclusively, I'm working with Bioinformatics (*Computational Biology*), that the key objective here is study all the information about the omics areas, like:
+
+Exclusively, I have already worked with Bioinformatics (*Computational Biology*), that the key objective here is study all the information about the omics areas, like:
 - *Genomics* 🧬
 - *Transcriptomics* 🧪
 - *Proteomics* 🔬
