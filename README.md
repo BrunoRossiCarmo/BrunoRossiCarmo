@@ -28,9 +28,3 @@ I’ve also worked with Bioinformatics (Computational Biology), where the main g
     <img src="https://github-readme-stats.vercel.app/api?username=BrunoRossiCarmo&show_icons=true&theme=radical" alt="Bruno's GitHub stats"/>
   </a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRossiCarmo&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
-</div>
